@@ -1,0 +1,13 @@
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Repositorios\bin\Debug\netcoreapp3.1\Backend_EctoTec.Repositorios.deps.json
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Repositorios\bin\Debug\netcoreapp3.1\Backend_EctoTec.Repositorios.dll
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Repositorios\bin\Debug\netcoreapp3.1\Backend_EctoTec.Repositorios.pdb
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Repositorios\bin\Debug\netcoreapp3.1\Backend_EctoTec.Core.dll
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Repositorios\bin\Debug\netcoreapp3.1\Backend_EctoTec.Core.pdb
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Repositorios\obj\Debug\netcoreapp3.1\Backend_EctoTec.Repositorios.csproj.AssemblyReference.cache
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Repositorios\obj\Debug\netcoreapp3.1\Backend_EctoTec.Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Repositorios\obj\Debug\netcoreapp3.1\Backend_EctoTec.Repositorios.AssemblyInfoInputs.cache
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Repositorios\obj\Debug\netcoreapp3.1\Backend_EctoTec.Repositorios.AssemblyInfo.cs
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Repositorios\obj\Debug\netcoreapp3.1\Backend_EctoTec.Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Repositorios\obj\Debug\netcoreapp3.1\Backend_EctoTec.Repositorios.csproj.CopyComplete
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Repositorios\obj\Debug\netcoreapp3.1\Backend_EctoTec.Repositorios.dll
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Repositorios\obj\Debug\netcoreapp3.1\Backend_EctoTec.Repositorios.pdb

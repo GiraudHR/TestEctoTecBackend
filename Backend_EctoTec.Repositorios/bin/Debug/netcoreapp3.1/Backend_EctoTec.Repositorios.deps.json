@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Backend_EctoTec.Repositorios/1.0.0": {
+        "dependencies": {
+          "Backend_EctoTec.Core": "1.0.0"
+        },
+        "runtime": {
+          "Backend_EctoTec.Repositorios.dll": {}
+        }
+      },
+      "Backend_EctoTec.Core/1.0.0": {
+        "runtime": {
+          "Backend_EctoTec.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Backend_EctoTec.Repositorios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Backend_EctoTec.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

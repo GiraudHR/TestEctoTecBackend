@@ -1,0 +1,13 @@
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Services\bin\Debug\netcoreapp3.1\Backend_EctoTec.Services.deps.json
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Services\bin\Debug\netcoreapp3.1\Backend_EctoTec.Services.dll
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Services\bin\Debug\netcoreapp3.1\Backend_EctoTec.Services.pdb
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Services\bin\Debug\netcoreapp3.1\Backend_EctoTec.Core.dll
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Services\bin\Debug\netcoreapp3.1\Backend_EctoTec.Core.pdb
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Services\obj\Debug\netcoreapp3.1\Backend_EctoTec.Services.csproj.AssemblyReference.cache
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Services\obj\Debug\netcoreapp3.1\Backend_EctoTec.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Services\obj\Debug\netcoreapp3.1\Backend_EctoTec.Services.AssemblyInfoInputs.cache
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Services\obj\Debug\netcoreapp3.1\Backend_EctoTec.Services.AssemblyInfo.cs
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Services\obj\Debug\netcoreapp3.1\Backend_EctoTec.Services.csproj.CoreCompileInputs.cache
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Services\obj\Debug\netcoreapp3.1\Backend_EctoTec.Services.csproj.CopyComplete
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Services\obj\Debug\netcoreapp3.1\Backend_EctoTec.Services.dll
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Services\obj\Debug\netcoreapp3.1\Backend_EctoTec.Services.pdb

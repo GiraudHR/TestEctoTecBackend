@@ -1,0 +1,10 @@
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Core\bin\Debug\netcoreapp3.1\Backend_EctoTec.Core.deps.json
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Core\bin\Debug\netcoreapp3.1\Backend_EctoTec.Core.dll
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Core\bin\Debug\netcoreapp3.1\Backend_EctoTec.Core.pdb
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Core\obj\Debug\netcoreapp3.1\Backend_EctoTec.Core.csproj.AssemblyReference.cache
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Core\obj\Debug\netcoreapp3.1\Backend_EctoTec.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Core\obj\Debug\netcoreapp3.1\Backend_EctoTec.Core.AssemblyInfoInputs.cache
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Core\obj\Debug\netcoreapp3.1\Backend_EctoTec.Core.AssemblyInfo.cs
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Core\obj\Debug\netcoreapp3.1\Backend_EctoTec.Core.csproj.CoreCompileInputs.cache
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Core\obj\Debug\netcoreapp3.1\Backend_EctoTec.Core.dll
+C:\Users\gerar\OneDrive\Escritorio\PRUEBA_EctoTec\Backend_EctoTec\Backend_EctoTec.Core\obj\Debug\netcoreapp3.1\Backend_EctoTec.Core.pdb
